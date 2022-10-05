@@ -1,1 +1,1 @@
-A repository that contains a shell script that prints the absolute path name of the current working directory.
+A repository that contains shell scripts.
